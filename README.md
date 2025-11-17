@@ -17,7 +17,7 @@ BrainEyeProject/
 │  │  ├─ statistics_page.py
 │  │  └─ stats_page.py
 │  ├─ __init__.py
-│  ├─ confest.py
+│  ├─ conftest.py
 │  └─ test_all_test_cases.py
 ├─ .gitignore
 ├─ pytest.ini
